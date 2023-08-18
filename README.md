@@ -15,3 +15,8 @@ Welcome to the Global Terrorism Project with Power BI repository. This project a
 * Slicer for Countries and Year of Attack.
   
   ![image](https://github.com/gaurrav1993/Global-Terrorism-Dashboard/assets/97343139/4ad6587c-03f4-44a1-8089-8fc836a01f35)
+
+  ### Requirements
+  * Power BI Desktop (latest version recommended)
+  * Dataset: The global terrorism dataset (provided or available through open data sources)
+  * Link : [https://www.kaggle.com/datasets/START-UMD/gtd?resource=download](url)
