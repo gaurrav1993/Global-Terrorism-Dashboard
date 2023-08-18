@@ -21,4 +21,5 @@ Welcome to the Global Terrorism Project with Power BI repository. This project a
   ### Requirements
   * Power BI Desktop (latest version recommended)
   * Dataset: The global terrorism dataset (provided or available through open data sources)
-  * Link : [https://www.kaggle.com/datasets/START-UMD/gtd?resource=download](url)
+  * Link : [https://www.novypro.com/project/global-terrorism-analysis-2
+](url)
